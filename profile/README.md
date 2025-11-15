@@ -14,8 +14,11 @@
   </p>
 </div>
 --- 
+
 ### Informationen für Interne Mitarbeiter 
-* Namenskonvention: <a href="https://github.com/WoyssCH/.github/wiki/Namenskonvention-Organisation-Repositories">Wiki</a> 
+
+* Namenskonvention: <a href="https://github.com/WoyssCH/.github/wiki/Namenskonvention-Organisation-Repositories">Wiki</a>
+  
 --- 
  
 ### 👋 Wer wir sind
