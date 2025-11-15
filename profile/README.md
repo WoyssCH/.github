@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://woyss.ai/_next/image?url=%2Ficons%2F500x500_woyss.png&w=48&q=75" alt="Woyss.ai Logo" width="200"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQtSsVLfMR2A/company-logo_100_100/B4DZieKJvEG8AU-/0/1755000118830/woyss_logo?e=1764806400&v=beta&t=IqAhlW_vcnqBj50bLMOM2906FXFsrkbrgytMVh49by4" alt="Woyss.ai Logo" width="200"/>
   
   <h1>
     Willkommen bei Woyss.ai
@@ -55,6 +55,6 @@ Wir fangen gerade erst an, unsere Arbeit auf GitHub zu teilen.
 
 <div align="center">
   <a href="https://www.woyss.ai">Offizielle Website</a> |
-  <a href="[Linkedin](https://www.linkedin.com/company/woyss)">LinkedIn</a> |
+  <a href="https://www.linkedin.com/company/woyss">LinkedIn</a> |
   <a href="mailto:info@woyss.ai">Kontakt</a>
 </div>
