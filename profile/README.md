@@ -13,11 +13,11 @@
     Wir entwickeln intelligente Voice Agents, Apps und K.I.-Integrationen.
   </p>
 </div>
----
-### Informationen für Interne Mitarbeiter
-* Namenskonvention: <a href="https://github.com/WoyssCH/.github/wiki/Namenskonvention-Organisation-Repositories">Wiki</a>
----
-
+--- 
+### Informationen für Interne Mitarbeiter 
+* Namenskonvention: <a href="https://github.com/WoyssCH/.github/wiki/Namenskonvention-Organisation-Repositories">Wiki</a> 
+--- 
+ 
 ### 👋 Wer wir sind
 
 Bei Woyss.ai bauen wir die Brücke zwischen künstlicher Intelligenz und menschlicher Kommunikation. Unsere Mission ist es, Unternehmen und öffentliche Institutionen von repetitiven Aufgaben zu befreien, damit sich ihre Teams wieder auf das Wesentliche konzentrieren können: den hervorragenden Service vor Ort.
