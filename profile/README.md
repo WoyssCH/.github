@@ -57,8 +57,6 @@ Wir fangen gerade erst an, unsere Arbeit auf GitHub zu teilen.
 
 ---
 
-<hr>
-
 <div align="center">
   <a href="https://www.woyss.ai">Offizielle Website</a> |
   <a href="https://www.linkedin.com/company/woyss">LinkedIn</a> |
