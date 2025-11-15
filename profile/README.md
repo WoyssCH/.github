@@ -13,6 +13,7 @@
     Wir entwickeln intelligente Voice Agents, Apps und K.I.-Integrationen.
   </p>
 </div>
+
 --- 
 
 ### Informationen für Interne Mitarbeiter 
