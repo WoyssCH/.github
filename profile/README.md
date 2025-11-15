@@ -13,7 +13,9 @@
     Wir entwickeln intelligente Voice Agents, Apps und K.I.-Integrationen.
   </p>
 </div>
-
+---
+### Informationen für Interne Mitarbeiter
+* Namenskonvention: <a href="https://github.com/WoyssCH/.github/wiki/Namenskonvention-Organisation-Repositories">Wiki</a>
 ---
 
 ### 👋 Wer wir sind
