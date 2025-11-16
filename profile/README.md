@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQtSsVLfMR2A/company-logo_100_100/B4DZieKJvEG8AU-/0/1755000118830/woyss_logo?e=1764806400&v=beta&t=IqAhlW_vcnqBj50bLMOM2906FXFsrkbrgytMVh49by4" alt="Woyss.ai Logo" width="200"/>
+  <img src="https://woyss.ai/logo-pic.svg" alt="Woyss.ai Logo" width="200"/>
   
   <h1>
     Willkommen bei Woyss.ai
