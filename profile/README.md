@@ -19,6 +19,7 @@
 ### Informationen für Interne Mitarbeiter 
 
 * Namenskonvention: <a href="https://github.com/WoyssCH/.github/wiki/Namenskonvention-Organisation-Repositories">Wiki</a>
+* Git / DVC Versionskontrolle: <a href="https://github.com/WoyssCH/.github/wiki/Git---DVC-Versionskontrolle-%E2%80%90-Woyss-Website-Site"></a>
   
 --- 
  
