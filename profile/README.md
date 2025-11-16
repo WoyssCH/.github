@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="padding-top: 15px; padding-bottom: 15px; padding-left: 30px; padding-right: 30px; background-color: white;">
+  <div style="width: 80%; height: 80px; padding-top: 15px; padding-bottom: 15px; padding-left: 30px; padding-right: 30px; background-color: white;">
       <img src="https://woyss.ai/logo-pic.svg" alt="Woyss.ai Logo" width="200"/>
   </div>
   
