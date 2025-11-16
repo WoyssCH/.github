@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://woyss.ai/logo-pic.svg" alt="Woyss.ai Logo" width="200"/>
+  <div style="padding-top: '15px'; padding-bottom: '15px'; padding-left: '30px'; padding-right: '30px'; background-color: 'white';">
+      <img src="https://woyss.ai/logo-pic.svg" alt="Woyss.ai Logo" width="200"/>
+  </div>
   
   <h1>
     Willkommen bei Woyss.ai
